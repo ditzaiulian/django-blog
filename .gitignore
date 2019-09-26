@@ -1,0 +1,4 @@
+env/
+.vscode/
+.git
+get-pip.py
